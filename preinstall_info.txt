@@ -1,0 +1,39 @@
+=========================================================
+              ARC* - Automated Reach Campaigner
+=========================================================
+
+Developed by:
+ Ankit
+
+
+Version: 1.0
+Year: 2025
+
+---------------------------------------------------------
+IMPORTANT NOTICE – PLEASE READ BEFORE INSTALLING
+---------------------------------------------------------
+
+By proceeding with the installation of ARC*, you acknowledge and agree to the following:
+
+1. ARC* is a desktop-based email campaigning application intended for educational and productivity use only.
+2. The developers do not collect or transmit any user data, emails, or credentials. All data remains on your local system.
+3. You are solely responsible for the ethical and legal use of this software, including but not limited to compliance with anti-spam laws and email provider policies.
+4. This software is provided "as is" without any warranties or guarantees. The developers shall not be held liable for any damage or data loss arising from its use.
+5. Redistribution or modification of this software without the developers' permission is strictly prohibited.
+
+---------------------------------------------------------
+USAGE SUGGESTIONS
+---------------------------------------------------------
+
+- Use your own email account credentials with caution.
+- Avoid sending unsolicited emails.
+- Test email campaigns in small batches before large-scale usage.
+
+---------------------------------------------------------
+CONTACT
+---------------------------------------------------------
+
+For feedback or inquiries, contact the development team directly.
+
+---------------------------------------------------------
+Click “I Accept” to continue installation.

@@ -1,0 +1,24 @@
+arc* 
+Copyright © 2025
+Developed by: Ankit Kushwaha
+All Rights Reserved
+
+---
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Permission is granted to install and use this software for personal, educational, or non-commercial use, subject to the following conditions:
+
+1. You may not reverse-engineer, decompile, or disassemble any part of the software.
+2. You may not distribute, sublicense, lease, or rent the software without the express written permission of the developers.
+3. You agree to use ARC* responsibly and lawfully, particularly with regard to anti-spam and data protection regulations.
+4. The developers are not liable for any damages, losses, or consequences resulting from the use or misuse of this software.
+5. You retain responsibility for any emails sent using this application and must comply with the terms of your email service provider.
+
+---
+
+By using or installing this software, you agree to the terms outlined in this license.
+
+For permissions, feature requests, or reporting bugs, please contact the development team.
+
+End of License
