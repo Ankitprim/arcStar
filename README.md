@@ -56,8 +56,8 @@ README.md                # This file
 
 ## Credits
  **Design & Developed by:**
--  Ankit Kushwaha,
--  Dharmvir sahani,
+-  Ankit Kushwaha
+-  Dharmvir Sahani
 -  Piyush Pal
 
 ## License
