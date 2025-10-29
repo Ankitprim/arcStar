@@ -55,7 +55,7 @@ README.md                # This file
 - Access Help and Info frames for guidance and credits.
 
 ## Credits
-- **Design & Developed by:**
+ **Design & Developed by:**
 -  Ankit Kushwaha,
 -  Dharmvir sahani,
 -  Piyush Pal
